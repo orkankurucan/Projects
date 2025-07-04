@@ -1,0 +1,5 @@
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Business\obj\Debug\net4.8\Business.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Business\obj\Debug\net4.8\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Business\obj\Debug\net4.8\Business.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Business\obj\Debug\net4.8\Business.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Business\obj\Debug\net4.8\Business.csproj.CoreCompileInputs.cache

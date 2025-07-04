@@ -1,0 +1,44 @@
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\bin\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.Migrations.ERPUpdate.resources
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.GenerateResource.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\bin\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.Migrations.UpdateDatabaseSchema.resources
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.Migrations.AddOrderStatusEnum.resources
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.Migrations.ERPUpdate.resources
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.GenerateResource.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

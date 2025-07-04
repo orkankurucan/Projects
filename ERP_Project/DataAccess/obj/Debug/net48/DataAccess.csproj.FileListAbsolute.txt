@@ -1,0 +1,5 @@
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net48\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net48\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net48\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net48\DataAccess.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\DataAccess\obj\Debug\net48\DataAccess.csproj.CoreCompileInputs.cache

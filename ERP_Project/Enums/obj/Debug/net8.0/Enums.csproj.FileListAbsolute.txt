@@ -1,0 +1,28 @@
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\bin\Debug\net8.0\Enums.deps.json
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\bin\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\bin\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\refint\Enums.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\Enums\obj\Debug\net8.0\ref\Enums.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\bin\Debug\net8.0\Enums.deps.json
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\bin\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\bin\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\refint\Enums.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\Enums\obj\Debug\net8.0\ref\Enums.dll

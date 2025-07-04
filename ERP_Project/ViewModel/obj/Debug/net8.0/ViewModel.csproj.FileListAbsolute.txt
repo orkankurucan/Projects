@@ -1,0 +1,38 @@
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.deps.json
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.runtimeconfig.json
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\Entities.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\Entities.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\bin\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.Up2Date
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.pdb
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.genruntimeconfig.cache
+C:\Users\Orkan KURUCAN\OneDrive\C# Exercises\ERP Project\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.deps.json
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.runtimeconfig.json
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\ViewModel.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\Entities.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\Enums.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\Entities.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\bin\Debug\net8.0\Enums.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.AssemblyReference.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfo.cs
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.Up2Date
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.pdb
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ViewModel.genruntimeconfig.cache
+C:\Users\Orkan KURUCAN\Desktop\ERP Project\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll
